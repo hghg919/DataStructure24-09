@@ -1,12 +1,12 @@
-#include <iostream>
+ï»¿#include <iostream>
 #include <vector>
 #include "complexity.h"
 
 int main()
 {
-	std::cout << "ÀÚ·á ±¸Á¶" << std::endl;
+	std::cout << "ì‚¬ê°•ì‚¬ê°•" << std::endl;
 
-	void lecture1();
+	lecture1();
 
-	void Example01();
+	Example01();
 }
