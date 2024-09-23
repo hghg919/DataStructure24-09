@@ -4,7 +4,7 @@
 
 int main()
 {
-	std::cout << "사강사강" << std::endl;
+	std::cout << "자료 구조" << std::endl;
 
 	lecture1();
 

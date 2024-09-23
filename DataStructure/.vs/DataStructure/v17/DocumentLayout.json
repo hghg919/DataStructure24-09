@@ -3,6 +3,18 @@
   "WorkspaceRootPath": "C:\\Users\\Jung\\Documents\\GitHub\\DataStructure24-09\\DataStructure\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{FDD9811A-4203-4DBE-8CBC-CF71BB38A599}|DataStructure.vcxproj|C:\\Users\\Jung\\Documents\\GitHub\\DataStructure24-09\\DataStructure\\lectures.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{FDD9811A-4203-4DBE-8CBC-CF71BB38A599}|DataStructure.vcxproj|solutionrelative:lectures.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FDD9811A-4203-4DBE-8CBC-CF71BB38A599}|DataStructure.vcxproj|C:\\Users\\Jung\\Documents\\GitHub\\DataStructure24-09\\DataStructure\\LinkedList.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{FDD9811A-4203-4DBE-8CBC-CF71BB38A599}|DataStructure.vcxproj|solutionrelative:LinkedList.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FDD9811A-4203-4DBE-8CBC-CF71BB38A599}|DataStructure.vcxproj|C:\\Users\\Jung\\Documents\\GitHub\\DataStructure24-09\\DataStructure\\LinkedList.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{FDD9811A-4203-4DBE-8CBC-CF71BB38A599}|DataStructure.vcxproj|solutionrelative:LinkedList.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{FDD9811A-4203-4DBE-8CBC-CF71BB38A599}|DataStructure.vcxproj|C:\\Users\\Jung\\Documents\\GitHub\\DataStructure24-09\\DataStructure\\Main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{FDD9811A-4203-4DBE-8CBC-CF71BB38A599}|DataStructure.vcxproj|solutionrelative:Main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
@@ -26,11 +38,48 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "lectures.h",
+              "DocumentMoniker": "C:\\Users\\Jung\\Documents\\GitHub\\DataStructure24-09\\DataStructure\\lectures.h",
+              "RelativeDocumentMoniker": "lectures.h",
+              "ToolTip": "C:\\Users\\Jung\\Documents\\GitHub\\DataStructure24-09\\DataStructure\\lectures.h",
+              "RelativeToolTip": "lectures.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAADwvwIAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-09-11T07:53:26.774Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "LinkedList.cpp",
+              "DocumentMoniker": "C:\\Users\\Jung\\Documents\\GitHub\\DataStructure24-09\\DataStructure\\LinkedList.cpp",
+              "RelativeDocumentMoniker": "LinkedList.cpp",
+              "ToolTip": "C:\\Users\\Jung\\Documents\\GitHub\\DataStructure24-09\\DataStructure\\LinkedList.cpp",
+              "RelativeToolTip": "LinkedList.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-09-11T07:31:37.37Z"
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "LinkedList.h",
+              "DocumentMoniker": "C:\\Users\\Jung\\Documents\\GitHub\\DataStructure24-09\\DataStructure\\LinkedList.h",
+              "RelativeDocumentMoniker": "LinkedList.h",
+              "ToolTip": "C:\\Users\\Jung\\Documents\\GitHub\\DataStructure24-09\\DataStructure\\LinkedList.h",
+              "RelativeToolTip": "LinkedList.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACcAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-09-11T07:01:58.462Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "Complexity.cpp",
               "DocumentMoniker": "C:\\Users\\Jung\\Documents\\GitHub\\DataStructure24-09\\DataStructure\\Complexity.cpp",
               "RelativeDocumentMoniker": "Complexity.cpp",
@@ -38,12 +87,11 @@
               "RelativeToolTip": "Complexity.cpp",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAC0AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-09-10T07:44:23.289Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-10T07:44:23.289Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 5,
               "Title": "Complexity.h",
               "DocumentMoniker": "C:\\Users\\Jung\\Documents\\GitHub\\DataStructure24-09\\DataStructure\\Complexity.h",
               "RelativeDocumentMoniker": "Complexity.h",
@@ -51,12 +99,11 @@
               "RelativeToolTip": "Complexity.h",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAARAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2024-09-10T07:43:44.018Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-10T07:43:44.018Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 6,
               "Title": "OT.cpp",
               "DocumentMoniker": "C:\\Users\\Jung\\Documents\\GitHub\\DataStructure24-09\\DataStructure\\OT.cpp",
               "RelativeDocumentMoniker": "OT.cpp",
@@ -64,21 +111,19 @@
               "RelativeToolTip": "OT.cpp",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAACIAAAAXAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-09-10T07:08:16.622Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-10T07:08:16.622Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
               "Title": "Main.cpp",
               "DocumentMoniker": "C:\\Users\\Jung\\Documents\\GitHub\\DataStructure24-09\\DataStructure\\Main.cpp",
               "RelativeDocumentMoniker": "Main.cpp",
               "ToolTip": "C:\\Users\\Jung\\Documents\\GitHub\\DataStructure24-09\\DataStructure\\Main.cpp",
               "RelativeToolTip": "Main.cpp",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAUAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-09-10T07:06:42.385Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-10T07:06:42.385Z"
             }
           ]
         }
